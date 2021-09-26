@@ -1,0 +1,6 @@
+scikit-learn
+scikit-image
+tensorflow
+opencv-python-headless
+segmentation_models
+pillow
